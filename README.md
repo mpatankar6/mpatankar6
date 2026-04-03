@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📁Projects
+🌱 I’m currently learning
+Rust, C++, OpenGL
 
-Learn all about my notable projects here!
-https://mihirpatankar.com/projects/
-
-## 🚀Let's Connect
-* LinkedIn: [https://www.linkedin.com/in/mihir-patankar-208263327/](https://www.linkedin.com/in/mihir-patankar/)
-* Email: mihir@mihirpatankar.com
+⚡ Fun fact:
+i forgot
