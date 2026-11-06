@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning
-Rust, C++, OpenGL
-
-⚡ Fun fact:
-i forgot
